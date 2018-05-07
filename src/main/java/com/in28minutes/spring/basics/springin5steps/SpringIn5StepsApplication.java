@@ -9,7 +9,7 @@ public class SpringIn5StepsApplication {
 
 	//What are the beans
 	//What are the dependencies of a bean.
-	//Where are the search paths. Automatically scans its own package/subpackages
+	//Where are the search paths. Automatically scanns its own package/subpackages
 	
 	public static void main(String[] args) {
 		//BinarySearchImpl binarySearch = new BinarySearchImpl(new QuickSortAlgorithm());
